@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  p2pChatClient.cpp
+d:\srouce\p2pchat\p2pclient2\p2pchatclient.cpp(82): warning C4101: 'client': unreferenced local variable
+d:\srouce\p2pchat\p2pclient2\p2pchatclient.cpp(95): warning C4101: 'buffer': unreferenced local variable
+  p2pClient2.vcxproj -> D:\Srouce\p2pChat\Debug\p2pChatClient.exe
